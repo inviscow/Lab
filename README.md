@@ -1,2 +1,2 @@
 # Lab
-This repo is for testing servers or for holding data.
+This repo is for testing or for holding data.
